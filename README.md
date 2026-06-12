@@ -7,46 +7,36 @@
 **Local-first desktop AI, built honest.** Pharmacist by training, builder by obsession — I make fast, private apps where nothing ever leaves your machine.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=flat-square&label=profile+views)](https://github.com/Hash-7777)
-[![HashCortX stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&label=HashCortX&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX)
 
 </div>
 
 ---
 
-## ◦ Featured — [HashCortX](https://github.com/Hash-7777/HashCortX)
-
-**The local-first AI workspace. Eleven modes. Ten providers. Zero telemetry.**
-
-An open-source desktop app that brings multi-provider chat, an autonomous coding agent, multi-agent swarms, financial analysis, security scanning and a virtual project desktop together — all running locally. Built with `Tauri v2` · `Rust` · `vanilla JS`.
-
-<div align="center">
-
-[![HashCortX](https://github-readme-stats.vercel.app/api/pin/?username=Hash-7777&repo=HashCortX&theme=tokyonight&hide_border=true)](https://github.com/Hash-7777/HashCortX)
-
-[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/stargazers)
-[![Forks](https://img.shields.io/github/forks/Hash-7777/HashCortX?style=for-the-badge&logo=github&color=BB9AF7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/network/members)
-[![License](https://img.shields.io/github/license/Hash-7777/HashCortX?style=for-the-badge&color=7DCFFF&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX)
-
-</div>
-
----
-
-## ◦ Also building
+## ◦ What I'm building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### [HashCortX](https://github.com/Hash-7777/HashCortX)
+The local-first AI workspace. Eleven modes, ten providers, zero telemetry. `Tauri` · `Rust` · `JS`
+
+[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/stargazers)
+![status](https://img.shields.io/badge/-open%20source-9ECE6A?style=flat-square&labelColor=1A1B27)
+
+</td>
+<td width="33%" valign="top">
 
 ### HashMeterAi
-The honest usage meter for AI coding tools — unifies Claude Code, Codex, Kimi & more into one private dashboard. Reads only local token metadata, sends **nothing**. `Tauri` · `Rust`
+The honest usage meter for AI coding tools — all your tools in one private dashboard. `Tauri` · `Rust`
 
 ![status](https://img.shields.io/badge/status-coming%20soon-7AA2F7?style=flat-square&labelColor=1A1B27)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### HashCerebrum
-A local-first medical-research workbench — a 3D anatomical brain that runs a multi-agent literature search and synthesizes **only cited** findings. `Tauri` · `Rust` · `React` · `Three.js`
+A local-first medical-research workbench — a 3D brain that searches, cites, and peer-reviews. `Tauri` · `React`
 
 ![status](https://img.shields.io/badge/status-coming%20soon-BB9AF7?style=flat-square&labelColor=1A1B27)
 
@@ -54,18 +44,9 @@ A local-first medical-research workbench — a 3D anatomical brain that runs a m
 </tr>
 </table>
 
-<div align="center">
-
-<!-- These cards stay blank while the repos are private, and fill in with live
-     stars / forks / language automatically the moment each one is made public. -->
-[![HashMeterAi](https://github-readme-stats.vercel.app/api/pin/?username=Hash-7777&repo=HashMeterAi&theme=tokyonight&hide_border=true)](https://github.com/Hash-7777/HashMeterAi)
-[![HashCerebrum](https://github-readme-stats.vercel.app/api/pin/?username=Hash-7777&repo=HashCerebrum&theme=tokyonight&hide_border=true)](https://github.com/Hash-7777/HashCerebrum)
-
-</div>
-
 ---
 
-## ◦ Live stats
+## ◦ Stats — across all my repos, live
 
 <div align="center">
 
@@ -74,7 +55,7 @@ A local-first medical-research workbench — a 3D anatomical brain that runs a m
 
 <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-7777&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
-<sub>These count <b>public</b> activity. Much of my current work (HashMeterAi, HashCerebrum) is in private repos, so it isn't reflected here — turning on <i>"Include private contributions on my profile"</i> in GitHub settings folds private days into the streak.</sub>
+<sub>These total my <b>public</b> activity. Much of my current work (HashMeterAi, HashCerebrum) is in private repos — turning on <i>"Include private contributions on my profile"</i> in GitHub settings folds those days into the streak.</sub>
 
 </div>
 
@@ -95,9 +76,5 @@ A local-first medical-research workbench — a 3D anatomical brain that runs a m
 ---
 
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Hash-7777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/Hash-7777)
-
 <sub>Every stat on this page is pulled live from GitHub — the same honesty I ship in my apps.</sub>
-
 </div>
