@@ -4,7 +4,7 @@
 
 # Seif Hashish &nbsp;·&nbsp; `Hash-7777`
 
-**Local-first desktop AI, built honest.** Pharmacist by training, builder by obsession — I make fast, private apps where nothing ever leaves your machine.
+**Local-first desktop AI, built by Hash.** Pharmacist by Education, Builder by Obsession — I make Ai private apps where nothing ever leaves your machine.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=flat-square&label=profile+views)](https://github.com/Hash-7777)
 
