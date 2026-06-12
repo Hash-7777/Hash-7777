@@ -54,6 +54,15 @@ A local-first medical-research workbench — a 3D anatomical brain that runs a m
 </tr>
 </table>
 
+<div align="center">
+
+<!-- These cards stay blank while the repos are private, and fill in with live
+     stars / forks / language automatically the moment each one is made public. -->
+[![HashMeterAi](https://github-readme-stats.vercel.app/api/pin/?username=Hash-7777&repo=HashMeterAi&theme=tokyonight&hide_border=true)](https://github.com/Hash-7777/HashMeterAi)
+[![HashCerebrum](https://github-readme-stats.vercel.app/api/pin/?username=Hash-7777&repo=HashCerebrum&theme=tokyonight&hide_border=true)](https://github.com/Hash-7777/HashCerebrum)
+
+</div>
+
 ---
 
 ## ◦ Live stats
