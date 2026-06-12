@@ -6,7 +6,7 @@
 
 From **prescriptions to pull requests** — I'm a pharmacist who fell down the coding rabbit hole and never climbed back out. No CS degree, no team: a self-taught **vibe-coder** obsessed with building **local-first desktop AI** — private, fast, honest apps that run entirely on your machine and send nothing to the cloud.
 
-My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), struck a chord and crossed **87★** — proof you don't need a CS degree to ship something people actually want.
+My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), struck a chord and crossed **87★**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Hashish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-hashish-s-w-h/)
 
