@@ -54,10 +54,10 @@ A local-first medical-research workbench — a 3D brain that searches, cites, an
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hash-7777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Hash-7777&theme=tokyonight&hide_border=true" />
+<img width="410" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hash-7777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img width="410" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Hash-7777&theme=tokyonight&hide_border=true" />
 
-<img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-7777&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img width="410" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-7777&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 <sub>These total my <b>public</b> activity. Much of my current work (HashMeterAi, HashCerebrum) is in private repos — turning on <i>"Include private contributions on my profile"</i> in GitHub settings folds those days into the streak.</sub>
 
