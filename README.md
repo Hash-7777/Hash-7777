@@ -1,10 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Pharmacist+by+training.+Builder+by+obsession.;I+make+local-first+desktop+AI.;Eleven+modes.+Ten+providers.+Zero+telemetry.;Privacy+is+the+architecture%2C+not+a+feature.)](https://github.com/Hash-7777)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Local-first+desktop+AI%2C+built+by+Hash.;Pharmacist+by+Education%2C+Builder+by+Obsession.;I+make+AI+private+apps+where+nothing+ever+leaves+your+machine.)](https://github.com/Hash-7777)
 
 # Seif Hashish &nbsp;·&nbsp; `Hash-7777`
 
-**Local-first desktop AI, built by Hash.** Pharmacist by Education, Builder by Obsession — I make Ai private apps where nothing ever leaves your machine.
+From **prescriptions to pull requests** — I'm a pharmacist who fell down the coding rabbit hole and never climbed back out. No CS degree, no team: a self-taught **vibe-coder** obsessed with building **local-first desktop AI** — private, fast, honest apps that run entirely on your machine and send nothing to the cloud.
+
+My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), struck a chord and crossed **87★** — proof you don't need a CS degree to ship something people actually want.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Hashish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-hashish-s-w-h/)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=flat-square&label=profile+views)](https://github.com/Hash-7777)
 
@@ -12,7 +16,7 @@
 
 ---
 
-## ◦ Projects
+## ◦ What I'm building
 
 <table>
 <tr>
