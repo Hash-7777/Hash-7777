@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Local-first+desktop+AI%2C+built+by+Hash.;Pharmacist+by+Education%2C+Builder+by+Obsession.;I+make+AI+private+apps+where+nothing+ever+leaves+your+machine.)](https://github.com/Hash-7777)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Local-first+desktop+AI%2C+built+by+Hash.;Pharmacist+by+Education%2C+Builder+by+Obsession.;I+make+private+Ai+that+never+leaves+your+machine.)](https://github.com/Hash-7777)
 
 # Seif Hashish &nbsp;·&nbsp; `Hash-7777`
 
