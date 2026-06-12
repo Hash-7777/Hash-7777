@@ -12,7 +12,7 @@
 
 ---
 
-## ◦ What I'm building
+## ◦ Projects
 
 <table>
 <tr>
