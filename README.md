@@ -23,24 +23,40 @@ My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), st
 <td width="33%" valign="top">
 
 ### [HashCortX](https://github.com/Hash-7777/HashCortX)
-The local-first AI workspace. Eleven modes, ten providers, zero telemetry. `Tauri` · `Rust` · `JS`
-
-[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/stargazers)
-![status](https://img.shields.io/badge/-open%20source-9ECE6A?style=flat-square&labelColor=1A1B27)
+The local-first AI workspace — eleven modes, ten providers, zero telemetry.
 
 </td>
 <td width="33%" valign="top">
 
 ### HashMeterAi
-The honest usage meter for AI coding tools — all your tools in one private dashboard. `Tauri` · `Rust`
-
-![status](https://img.shields.io/badge/status-coming%20soon-7AA2F7?style=flat-square&labelColor=1A1B27)
+The honest usage meter for AI coding tools, unified in one private local dashboard.
 
 </td>
 <td width="33%" valign="top">
 
 ### HashCerebrum
-A local-first medical-research workbench — a 3D brain that searches, cites, and peer-reviews. `Tauri` · `React`
+A local-first medical-research workbench — a 3D brain that searches, cites & peer-reviews.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+`Tauri` · `Rust` · `JS`
+
+[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/stargazers) &nbsp;![open source](https://img.shields.io/badge/-open%20source-9ECE6A?style=flat-square&labelColor=1A1B27)
+
+</td>
+<td valign="top">
+
+`Tauri` · `Rust`
+
+![status](https://img.shields.io/badge/status-coming%20soon-7AA2F7?style=flat-square&labelColor=1A1B27)
+
+</td>
+<td valign="top">
+
+`Tauri` · `React`
 
 ![status](https://img.shields.io/badge/status-coming%20soon-BB9AF7?style=flat-square&labelColor=1A1B27)
 
