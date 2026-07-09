@@ -64,7 +64,7 @@ A living fishing atlas on a 3D globe, with an AI fish specialist that flies the 
 
 `Tauri` · `Rust` · `globe.gl`
 
-![status](https://img.shields.io/badge/status-private%20beta-F7768E?style=flat-square&labelColor=1A1B27)
+![status](https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=1A1B27)
 
 </td>
 </tr>
