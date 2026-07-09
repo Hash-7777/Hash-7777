@@ -7,7 +7,7 @@
 
 From **prescriptions to pull requests** — a self-taught *vibe-coder* with no CS degree and no team, obsessed with building **local-first desktop AI**: private, fast, honest apps that run entirely on your machine and send nothing to the cloud.
 
-My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), struck a chord and crossed **100★**.
+My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), has passed **100★**.
 
 <br/>
 
