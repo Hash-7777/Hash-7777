@@ -42,7 +42,7 @@ The honest, local-first usage meter for AI coding tools — full privacy, no ser
 `Tauri` · `Rust`
 
 [![Stars](https://img.shields.io/github/stars/Hash-7777/HashMeterAi?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashMeterAi/stargazers)
-![released](https://img.shields.io/badge/-released-9ECE6A?style=flat-square&labelColor=1A1B27)
+![open source](https://img.shields.io/badge/-open%20source-9ECE6A?style=flat-square&labelColor=1A1B27)
 
 </td>
 </tr>
@@ -69,36 +69,6 @@ A living fishing atlas on a 3D globe, with an AI fish specialist that flies the 
 </td>
 </tr>
 </table>
-
----
-
-## ◦ By the numbers
-
-<div align="center">
-
-[![HashCortX stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=for-the-badge&logo=github&label=HashCortX&labelColor=1A1B27&color=7AA2F7)](https://github.com/Hash-7777/HashCortX)
-[![HashMeterAi stars](https://img.shields.io/github/stars/Hash-7777/HashMeterAi?style=for-the-badge&logo=github&label=HashMeterAi&labelColor=1A1B27&color=7AA2F7)](https://github.com/Hash-7777/HashMeterAi)
-[![Followers](https://img.shields.io/github/followers/Hash-7777?style=for-the-badge&logo=github&label=Followers&labelColor=1A1B27&color=9ECE6A)](https://github.com/Hash-7777)
-
-<br/>
-
-<!--
-  The two cards below are rendered by the shared, free github-readme-stats
-  instance, which is rate-limited and occasionally returns a broken image.
-  To make them 100% reliable, deploy your own instance in ~5 minutes
-  (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)
-  and replace "github-readme-stats.vercel.app" below with your own domain.
-  The shields.io badge row above always renders regardless.
--->
-
-<img width="420" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hash-7777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7" />
-<img width="420" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-7777&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=7AA2F7" />
-
-<br/>
-
-<sub>These count my <b>public</b> activity. Much of my current work (HashCerebrum, Barracudask) lives in private repos — enabling <i>"Include private contributions on my profile"</i> in GitHub settings folds those days in.</sub>
-
-</div>
 
 ---
 
