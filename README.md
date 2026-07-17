@@ -20,7 +20,7 @@
 
 ## ◦ How I work
 
-I'm not a hand-coder. I'm a **power user of AI coding agents** — and I treat that as a discipline, not a shortcut.
+I'm a **power user of AI coding agents**, and I treat it as a discipline rather than a shortcut.
 
 **148 million measured tokens** of real work sit behind the apps below — 35M on HashCortX alone. That number is measured rather than guessed, because I built and released the meter that counts it. The agents write; I direct, review and verify. Every product decision, every architecture call and every security model in these apps is mine.
 
