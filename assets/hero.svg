@@ -1,4 +1,4 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Seif Hashish — Hash-7777. Pharmacist, angler, builder of local-first desktop AI. I direct AI coding agents and published the system I use to do it. 113 stars on HashCortX, 148 million tokens directed, 6 apps built.">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Seif Hashish — Hash-7777. Pharmacist, angler, builder of local-first desktop AI. I direct AI coding agents; they write, I architect, review and verify. 113 stars on HashCortX, 148 million tokens directed, 6 apps built.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#12131C"/>
@@ -71,7 +71,7 @@
     <text x="64" y="176" fill="#8B95BF" font-size="20">Pharmacist · Angler · builder of local-first desktop AI</text>
 
     <!-- positioning line -->
-    <text x="64" y="212" fill="#9ECE6A" font-size="18" font-weight="600">I direct AI coding agents — and I published the system I use to do it.</text>
+    <text x="64" y="212" fill="#9ECE6A" font-size="18" font-weight="600">I direct AI coding agents — they write; I architect, review and verify.</text>
 
     <!-- divider -->
     <rect x="64" y="240" width="720" height="1" fill="#2A2C3E"/>
