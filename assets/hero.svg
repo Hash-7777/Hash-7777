@@ -1,0 +1,93 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Seif Hashish — Hash-7777. Pharmacist, angler, builder of local-first desktop AI. 113 stars on HashCortX, 148 million tokens directed, 6 apps built.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12131C"/>
+      <stop offset="1" stop-color="#1A1B27"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7AA2F7"/>
+      <stop offset="1" stop-color="#BB9AF7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7AA2F7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7AA2F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#BB9AF7" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#BB9AF7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#FFFFFF" opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#dots)"/>
+  <ellipse cx="1010" cy="150" rx="380" ry="250" fill="url(#glow)"/>
+  <ellipse cx="1150" cy="330" rx="260" ry="180" fill="url(#glow2)"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="14" fill="none" stroke="#242637" stroke-width="1"/>
+
+  <!-- agent graph, right side: a dispatcher fanning out to specialists -->
+  <g opacity="0.85">
+    <g stroke="#7AA2F7" stroke-opacity="0.28" stroke-width="1.5">
+      <path d="M980 180 L1088 104"/>
+      <path d="M980 180 L1108 180"/>
+      <path d="M980 180 L1088 256"/>
+      <path d="M980 180 L1002 92"/>
+      <path d="M980 180 L1002 268"/>
+    </g>
+    <g stroke="#BB9AF7" stroke-opacity="0.16" stroke-width="1.2">
+      <path d="M1088 104 L1108 180"/>
+      <path d="M1108 180 L1088 256"/>
+      <path d="M1002 92 L1088 104"/>
+      <path d="M1002 268 L1088 256"/>
+    </g>
+    <circle cx="980" cy="180" r="16" fill="#1A1B27" stroke="url(#accent)" stroke-width="2.5"/>
+    <circle cx="980" cy="180" r="5" fill="#7AA2F7"/>
+    <g fill="#1A1B27" stroke="#7AA2F7" stroke-opacity="0.75" stroke-width="1.8">
+      <circle cx="1088" cy="104" r="8"/>
+      <circle cx="1108" cy="180" r="8"/>
+      <circle cx="1088" cy="256" r="8"/>
+    </g>
+    <g fill="#1A1B27" stroke="#BB9AF7" stroke-opacity="0.6" stroke-width="1.6">
+      <circle cx="1002" cy="92" r="6"/>
+      <circle cx="1002" cy="268" r="6"/>
+    </g>
+    <g fill="#7AA2F7" opacity="0.5">
+      <circle cx="1088" cy="104" r="2.5"/>
+      <circle cx="1108" cy="180" r="2.5"/>
+      <circle cx="1088" cy="256" r="2.5"/>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <!-- eyebrow -->
+    <text x="64" y="76" fill="#7AA2F7" font-size="14" font-weight="600" letter-spacing="3.6">GITHUB · HASH-7777</text>
+
+    <!-- name -->
+    <text x="64" y="140" fill="#C0CAF5" font-size="52" font-weight="700" letter-spacing="-0.6">Seif Hashish</text>
+
+    <!-- tagline -->
+    <text x="64" y="176" fill="#8B95BF" font-size="20">Pharmacist · Angler · builder of local-first desktop AI</text>
+
+    <!-- positioning line -->
+    <text x="64" y="212" fill="#9ECE6A" font-size="18" font-weight="600">I don&#39;t hand-write code. I direct AI agents — and I published the system.</text>
+
+    <!-- divider -->
+    <rect x="64" y="240" width="720" height="1" fill="#2A2C3E"/>
+
+    <!-- stats -->
+    <g>
+      <text x="64" y="288" fill="#C0CAF5" font-size="30" font-weight="700">113<tspan fill="#7AA2F7">★</tspan></text>
+      <text x="64" y="312" fill="#6C7799" font-size="12.5" letter-spacing="1.7">HASHCORTX · 14 FORKS</text>
+
+      <rect x="272" y="264" width="1" height="52" fill="#2A2C3E"/>
+      <text x="312" y="288" fill="#C0CAF5" font-size="30" font-weight="700">148M</text>
+      <text x="312" y="312" fill="#6C7799" font-size="12.5" letter-spacing="1.7">TOKENS DIRECTED · MEASURED</text>
+
+      <rect x="600" y="264" width="1" height="52" fill="#2A2C3E"/>
+      <text x="640" y="288" fill="#C0CAF5" font-size="30" font-weight="700">6</text>
+      <text x="640" y="312" fill="#6C7799" font-size="12.5" letter-spacing="1.7">APPS BUILT · 4 OPEN SOURCE</text>
+    </g>
+  </g>
+</svg>

@@ -1,21 +1,18 @@
 <div align="center">
 
-### Seif Hashish
-# `Hash-7777`
-
-**Pharmacist · Angler · builder of local-first desktop AI**
-
-From **prescriptions to pull requests** — a self-taught builder with no CS degree and no team, obsessed with **local-first desktop AI**: private, fast, honest apps that run entirely on your machine and send nothing to the cloud.
-
-I don't hand-write code. I **direct AI coding agents** — and I've published the system I use to do it.
-
-My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), has passed **113★**.
+<img src="assets/hero.svg" alt="Seif Hashish — Hash-7777. Pharmacist, angler, builder of local-first desktop AI." width="100%">
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seif%20Hashish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-hashish-s-w-h/)
-[![Followers](https://img.shields.io/github/followers/Hash-7777?style=for-the-badge&logo=github&label=Follow&labelColor=1A1B27&color=7AA2F7)](https://github.com/Hash-7777)
-[![Profile views](https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hash-7777)
+**From prescriptions to pull requests** — a self-taught builder with no CS degree and no team, obsessed with **local-first desktop AI**: private, fast, honest apps that run entirely on your machine and send nothing to the cloud.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seif-hashish-s-w-h/"><img src="https://img.shields.io/badge/LinkedIn-Seif%20Hashish-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn"></a>
+  <a href="https://github.com/Hash-7777"><img src="https://img.shields.io/github/followers/Hash-7777?style=flat-square&logo=github&label=Follow&labelColor=1A1B27&color=7AA2F7" alt="Followers"></a>
+  <img src="https://img.shields.io/badge/apps-6%20built%20·%204%20open%20source-BB9AF7?style=flat-square&labelColor=1A1B27" alt="6 apps built, 4 open source">
+  <img src="https://img.shields.io/badge/tokens-148M%20measured-9ECE6A?style=flat-square&labelColor=1A1B27" alt="148M measured tokens">
+  <a href="https://github.com/Hash-7777"><img src="https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=flat-square&label=views&labelColor=1A1B27" alt="Profile views"></a>
+</p>
 
 </div>
 
@@ -25,9 +22,11 @@ My first real build, [**HashCortX**](https://github.com/Hash-7777/HashCortX), ha
 
 I'm not a hand-coder. I'm a **power user of AI coding agents** — and I treat that as a discipline, not a shortcut.
 
-Roughly **30 million tokens** of frontier-model assistance sit behind the apps below. The agents write; I direct, review and verify. Every product decision, every architecture call and every security model in them is mine.
+**148 million measured tokens** of real work sit behind the apps below — 35M on HashCortX alone. That number is measured rather than guessed, because I built and released the meter that counts it. The agents write; I direct, review and verify. Every product decision, every architecture call and every security model in these apps is mine.
 
-That method is written down and open-sourced as [**Hash AI Coding Persona**](https://github.com/Hash-7777/Hash-AI-Coding-persona) — persistent memory, git work-trees, signed-commit discipline, and verify-before-you-trust. It's how you move at agent speed without the mess.
+The method is written down and open-sourced as **[Hash AI Coding Persona](https://github.com/Hash-7777/Hash-AI-Coding-persona)** — persistent memory, git work-trees, signed-commit discipline, and verify-before-you-trust. It's how you move at agent speed without the mess.
+
+I don't reach for orchestration frameworks. Everything below — the swarms, the planners, the tool registries, the retrieval — I designed and had built from first principles.
 
 ---
 
@@ -38,24 +37,25 @@ That method is written down and open-sourced as [**Hash AI Coding Persona**](htt
 <td width="50%" valign="top">
 
 ### [HashCortX](https://github.com/Hash-7777/HashCortX)
-The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **12 providers**, or fully offline with Ollama. No backend, no telemetry, no account. 8.9 MB.
+The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **12 providers**, or fully offline with Ollama. Nine specialist agents, real CPython in a sandbox. No backend, no telemetry, no account. 8.9 MB.
 
 `Tauri` · `Rust` · `JS`
 
-[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/stargazers)
-[![Forks](https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&logo=github&color=BB9AF7&labelColor=1A1B27)](https://github.com/Hash-7777/HashCortX/network/members)
-![MIT](https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=1A1B27)
+<a href="https://github.com/Hash-7777/HashCortX/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27" alt="stars"></a>
+<a href="https://github.com/Hash-7777/HashCortX/network/members"><img src="https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&logo=github&color=BB9AF7&labelColor=1A1B27" alt="forks"></a>
+<img src="https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=1A1B27" alt="MIT">
 
 </td>
 <td width="50%" valign="top">
 
 ### [HashMeterAi](https://github.com/Hash-7777/HashMeterAi)
-The honest, local-first usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats.
+The honest, local-first usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats. It's the meter behind the 148M above.
 
 `Tauri` · `Rust`
 
-[![Stars](https://img.shields.io/github/stars/Hash-7777/HashMeterAi?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/HashMeterAi/stargazers)
-![Apache-2.0](https://img.shields.io/badge/-Apache--2.0-9ECE6A?style=flat-square&labelColor=1A1B27)
+<a href="https://github.com/Hash-7777/HashMeterAi/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/HashMeterAi?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27" alt="stars"></a>
+<a href="https://github.com/Hash-7777/HashMeterAi/network/members"><img src="https://img.shields.io/github/forks/Hash-7777/HashMeterAi?style=flat-square&logo=github&color=BB9AF7&labelColor=1A1B27" alt="forks"></a>
+<img src="https://img.shields.io/badge/-Apache--2.0-9ECE6A?style=flat-square&labelColor=1A1B27" alt="Apache-2.0">
 
 </td>
 </tr>
@@ -63,12 +63,12 @@ The honest, local-first usage meter for AI coding tools. Counts **real measured 
 <td valign="top">
 
 ### [Hash AI Coding Persona](https://github.com/Hash-7777/Hash-AI-Coding-persona)
-The written-down system for shipping serious software with AI coding agents — persistent memory, git work-trees, signed commits, verify-before-you-trust, with copy-paste templates. Agent- and model-agnostic.
+The written-down system for shipping serious software with AI coding agents — persistent memory, git work-trees, signed commits, verify-before-you-trust. Copy-paste templates. Works with any agent, any model, including local Ollama.
 
 `Markdown` · `any agent` · `any model`
 
-[![Stars](https://img.shields.io/github/stars/Hash-7777/Hash-AI-Coding-persona?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/Hash-AI-Coding-persona/stargazers)
-![MIT](https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=1A1B27)
+<a href="https://github.com/Hash-7777/Hash-AI-Coding-persona/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/Hash-AI-Coding-persona?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27" alt="stars"></a>
+<img src="https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=1A1B27" alt="MIT">
 
 </td>
 <td valign="top">
@@ -78,8 +78,8 @@ Drop-in agent skills that make an AI appraise medical literature like a reviewer
 
 `Markdown` · `framework-agnostic`
 
-[![Stars](https://img.shields.io/github/stars/Hash-7777/Hash-Medical-Reasearch-Agent-Skills?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27)](https://github.com/Hash-7777/Hash-Medical-Reasearch-Agent-Skills/stargazers)
-![MIT](https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=1A1B27)
+<a href="https://github.com/Hash-7777/Hash-Medical-Reasearch-Agent-Skills/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/Hash-Medical-Reasearch-Agent-Skills?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27" alt="stars"></a>
+<img src="https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=1A1B27" alt="MIT">
 
 </td>
 </tr>
@@ -87,21 +87,22 @@ Drop-in agent skills that make an AI appraise medical literature like a reviewer
 <td valign="top">
 
 ### HashCerebrum
-A local-first medical-research workbench — a 3D anatomical brain that searches, cites and peer-reviews the literature. Every claim is graded against the evidence it cites.
+A local-first medical-research workbench — a 3D anatomical brain that searches, cites and peer-reviews the literature. A query planner decomposes the question, specialist agents collaborate over a shared blackboard, and **every claim is graded against the evidence it cites** before you see it.
 
 `Tauri` · `React` · `Three.js`
 
-![status](https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=1A1B27)
+<img src="https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=1A1B27" alt="in development">
+<img src="https://img.shields.io/badge/-AGPL--3.0-565F89?style=flat-square&labelColor=1A1B27" alt="AGPL-3.0">
 
 </td>
 <td valign="top">
 
 ### Barracudask
-A living fishing atlas on a 3D globe, with an AI fish specialist that flies the earth to show migrations and catch spots. (The *angler* in me, in code.)
+A living fishing atlas on a 3D globe, with an AI fish specialist that flies the earth to show migrations and catch spots — an agent driving a real interface through tool calls, not returning text. (The *angler* in me, in code.)
 
 `Tauri` · `Rust` · `globe.gl`
 
-![status](https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=1A1B27)
+<img src="https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=1A1B27" alt="in development">
 
 </td>
 </tr>
