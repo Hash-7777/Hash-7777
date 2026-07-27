@@ -8,7 +8,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/seif-hashish-s-w-h/"><img src="https://img.shields.io/badge/LinkedIn-Seif%20Hashish-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=12131C" alt="LinkedIn"></a>
-  <a href="https://hash-tech-2026.netlify.app/"><img src="https://img.shields.io/badge/Website-Hash%20Tech-BB9AF7?style=flat-square&logo=safari&logoColor=white&labelColor=12131C" alt="Hash Tech website"></a>
   <a href="https://github.com/Hash-7777?tab=followers"><img src="https://img.shields.io/github/followers/Hash-7777?style=flat-square&logo=github&label=Follow&labelColor=12131C&color=7AA2F7" alt="Followers"></a>
   <a href="https://github.com/Hash-7777"><img src="https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=flat-square&label=views&labelColor=12131C" alt="Profile views"></a>
 </p>
@@ -114,17 +113,7 @@ A living fishing atlas on a 3D globe, with an AI fish specialist that flies the 
 <img src="https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=12131C" alt="in development">
 
 </td>
-<td valign="top">
-
-### [Hash Tech](https://hash-tech-2026.netlify.app/)
-
-The home for the apps above — what each one does, who it is for, and where to get it.
-
-<sub>`JavaScript` · `Netlify`</sub>
-
-<a href="https://hash-tech-2026.netlify.app/"><img src="https://img.shields.io/badge/live-hash--tech-7AA2F7?style=flat-square&logo=netlify&logoColor=white&labelColor=12131C" alt="live site"></a>
-
-</td>
+<td valign="top"></td>
 </tr>
 </table>
 
@@ -191,6 +180,6 @@ Drop-in agent skills that make an AI appraise medical literature like a reviewer
 
 <br/><br/>
 
-<sub><a href="https://www.linkedin.com/in/seif-hashish-s-w-h/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://hash-tech-2026.netlify.app/">Hash Tech</a> &nbsp;·&nbsp; <a href="https://github.com/Hash-7777?tab=repositories">All repositories</a></sub>
+<sub><a href="https://www.linkedin.com/in/seif-hashish-s-w-h/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/Hash-7777?tab=repositories">All repositories</a></sub>
 
 </div>
