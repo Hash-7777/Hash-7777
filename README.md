@@ -22,10 +22,9 @@
 
 <div align="center">
 
-| | | | |
+| **3** | **5** | **160M** | **0** |
 |:--:|:--:|:--:|:--:|
-| **3** | **5** | **148M** | **0** |
-| <sub>apps shipped</sub> | <sub>repos open source</sub> | <sub>tokens measured</sub> | <sub>servers required</sub> |
+| <sub>apps shipped</sub> | <sub>repos open source</sub> | <sub>tokens, cache excluded</sub> | <sub>servers required</sub> |
 
 </div>
 
@@ -35,7 +34,7 @@
 
 I am a **power user of AI coding agents**, and I treat it as a discipline rather than a shortcut.
 
-**148 million measured tokens** of real work sit behind the apps below — 35M on HashCortX alone. That number is measured rather than guessed, because I built and released the meter that counts it. The agents write; I direct, review and verify. Every product decision, every architecture call and every security model in these apps is mine.
+**160 million measured tokens** of real work sit behind the apps below — cache reads excluded, so it is the work itself and not the same context counted twice. That number is measured rather than guessed, because I built and released the meter that counts it. The agents write; I direct, review and verify. Every product decision, every architecture call and every security model in these apps is mine.
 
 The method is written down and open-sourced as **[Hash AI Coding Persona](https://github.com/Hash-7777/Hash-AI-Coding-persona)** — persistent memory, git work-trees, signed-commit discipline, and verify-before-you-trust. It is how you move at agent speed without the mess.
 
@@ -43,52 +42,54 @@ I do not reach for orchestration frameworks. Everything below — the swarms, th
 
 ---
 
-## ◦ What I am building
+## ◦ Shipped
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [HashCortX](https://github.com/Hash-7777/HashCortX)
 
-The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **12 providers**, or fully offline with Ollama. Nine specialist agents, real CPython in a sandbox. No backend, no telemetry, no account. 8.9 MB.
+The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **12 providers**, or fully offline with Ollama. Nine specialist agents, real Python in a sandbox. No backend, no account. 8.9 MB.
 
 <sub>`Tauri` · `Rust` · `JavaScript`</sub>
 
 <a href="https://github.com/Hash-7777/HashCortX/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&logo=github&color=7AA2F7&labelColor=12131C" alt="stars"></a>
-<a href="https://github.com/Hash-7777/HashCortX/network/members"><img src="https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&logo=github&color=BB9AF7&labelColor=12131C" alt="forks"></a>
 <img src="https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=12131C" alt="MIT">
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [Hash D Island](https://github.com/Hash-7777/Hash-D-Island)
 
-The Dynamic Island every Mac deserves. What is playing, how fast the internet is, what the battery is doing, how hot the chip runs, what you spent on AI today — a glance away at the notch. macOS itself is asked what is playing, so an app nobody wrote support for still works on day one.
+The Dynamic Island every Mac deserves. What is playing, internet speed, battery, how hot the chip runs, what you spent on AI today — a glance away at the notch. macOS itself is asked what is playing, so an app nobody wrote support for still works on day one.
 
 <sub>`Swift` · `SwiftUI` · `AppKit`</sub>
 
-<a href="https://github.com/Hash-7777/Hash-D-Island/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/Hash-D-Island?style=flat-square&logo=github&color=7AA2F7&labelColor=12131C" alt="stars"></a>
-<a href="https://github.com/Hash-7777/Hash-D-Island/releases/latest"><img src="https://img.shields.io/github/v/release/Hash-7777/Hash-D-Island?style=flat-square&logo=apple&color=BB9AF7&labelColor=12131C" alt="latest release"></a>
+<a href="https://github.com/Hash-7777/Hash-D-Island/releases/latest"><img src="https://img.shields.io/github/v/release/Hash-7777/Hash-D-Island?style=flat-square&logo=apple&color=7AA2F7&labelColor=12131C" alt="latest release"></a>
 <img src="https://img.shields.io/badge/-GPL--3.0-9ECE6A?style=flat-square&labelColor=12131C" alt="GPL-3.0">
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="33%" valign="top">
 
 ### [HashMeterAi](https://github.com/Hash-7777/HashMeterAi)
 
-The honest, local-first usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats. It is the meter behind the 148M above.
+The honest usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats. It is the meter behind the 160M above.
 
 <sub>`Tauri` · `Rust`</sub>
 
 <a href="https://github.com/Hash-7777/HashMeterAi/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/HashMeterAi?style=flat-square&logo=github&color=7AA2F7&labelColor=12131C" alt="stars"></a>
-<a href="https://github.com/Hash-7777/HashMeterAi/network/members"><img src="https://img.shields.io/github/forks/Hash-7777/HashMeterAi?style=flat-square&logo=github&color=BB9AF7&labelColor=12131C" alt="forks"></a>
 <img src="https://img.shields.io/badge/-Apache--2.0-9ECE6A?style=flat-square&labelColor=12131C" alt="Apache-2.0">
 
 </td>
-<td valign="top">
+</tr>
+</table>
+
+## ◦ In development
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### HashCerebrum
 
@@ -96,13 +97,10 @@ A local-first medical-research workbench — a 3D anatomical brain that searches
 
 <sub>`Tauri` · `React` · `Three.js`</sub>
 
-<img src="https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=12131C" alt="in development">
 <img src="https://img.shields.io/badge/-AGPL--3.0-565F89?style=flat-square&labelColor=12131C" alt="AGPL-3.0">
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### Barracudask
 
@@ -110,10 +108,7 @@ A living fishing atlas on a 3D globe, with an AI fish specialist that flies the 
 
 <sub>`Tauri` · `Rust` · `globe.gl`</sub>
 
-<img src="https://img.shields.io/badge/status-in%20development-BB9AF7?style=flat-square&labelColor=12131C" alt="in development">
-
 </td>
-<td valign="top"></td>
 </tr>
 </table>
 
