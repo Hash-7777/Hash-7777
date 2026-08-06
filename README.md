@@ -22,7 +22,7 @@
 
 <div align="center">
 
-| **3** | **5** | **160M** | **0** |
+| **3** | **5** | **300 M** | **0** |
 |:--:|:--:|:--:|:--:|
 | <sub>apps shipped</sub> | <sub>repos open source</sub> | <sub>tokens, cache excluded</sub> | <sub>servers required</sub> |
 
