@@ -49,7 +49,7 @@ The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swar
 </td>
 <td width="33%" valign="top">
 
-### [Hash D Island](https://github.com/Hash-7777/Hash-D-Island)
+### [HashNotch](https://github.com/Hash-7777/HashNotch)
 
 The Dynamic Island every Mac deserves. What is playing, internet speed, battery, how hot the chip runs, what you spent on AI today — a glance away at the notch. macOS itself is asked what is playing, so an app nobody wrote support for still works on day one.
 
