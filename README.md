@@ -30,17 +30,6 @@
 
 ---
 
-## ◦ How I work
-
-I am a **power user of AI coding agents**, and I treat it as a discipline rather than a shortcut.
-
-**160 million measured tokens** of real work sit behind the apps below — cache reads excluded, so it is the work itself and not the same context counted twice. That number is measured rather than guessed, because I built and released the meter that counts it. The agents write; I direct, review and verify. Every product decision, every architecture call and every security model in these apps is mine.
-
-The method is written down and open-sourced as **[Hash AI Coding Persona](https://github.com/Hash-7777/Hash-AI-Coding-persona)** — persistent memory, git work-trees, signed-commit discipline, and verify-before-you-trust. It is how you move at agent speed without the mess.
-
-I do not reach for orchestration frameworks. Everything below — the swarms, the planners, the tool registries, the retrieval — I designed and had built from first principles.
-
----
 
 ## ◦ Shipped
 
