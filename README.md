@@ -39,7 +39,7 @@
 
 ### [HashCortX](https://github.com/Hash-7777/HashCortX)
 
-The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **12 providers**, or fully offline with Ollama. Nine specialist agents, real Python in a sandbox. No backend, no account. 8.9 MB.
+The local-first AI workspace for macOS. **Eight workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **11 cloud providers**, or fully offline with Ollama. Nine specialist agents, real Python in a sandbox. No backend, no account.
 
 <sub>`Tauri` · `Rust` · `JavaScript`</sub>
 
@@ -51,11 +51,11 @@ The local-first AI workspace for macOS. **Ten workspaces** — Coder, Agent Swar
 
 ### [HashNotch](https://github.com/Hash-7777/HashNotch)
 
-The Dynamic Island every Mac deserves. What is playing, internet speed, battery, how hot the chip runs, what you spent on AI today — a glance away at the notch. macOS itself is asked what is playing, so an app nobody wrote support for still works on day one.
+The Dynamic Island every Mac deserves. What is playing, internet speed, battery, temperatures, which programs used your data, what you spent on AI today — a glance away at the notch. It lights up when an AI coding tool finishes or needs you. Apple Silicon and Intel.
 
 <sub>`Swift` · `SwiftUI` · `AppKit`</sub>
 
-<a href="https://github.com/Hash-7777/Hash-D-Island/releases/latest"><img src="https://img.shields.io/github/v/release/Hash-7777/Hash-D-Island?style=flat-square&logo=apple&color=7AA2F7&labelColor=12131C" alt="latest release"></a>
+<a href="https://github.com/Hash-7777/HashNotch/releases/latest"><img src="https://img.shields.io/github/v/release/Hash-7777/HashNotch?style=flat-square&logo=apple&color=7AA2F7&labelColor=12131C" alt="latest release"></a>
 <img src="https://img.shields.io/badge/-GPL--3.0-9ECE6A?style=flat-square&labelColor=12131C" alt="GPL-3.0">
 
 </td>
@@ -63,7 +63,7 @@ The Dynamic Island every Mac deserves. What is playing, internet speed, battery,
 
 ### [HashMeterAi](https://github.com/Hash-7777/HashMeterAi)
 
-The honest usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats. It is the meter behind the 160M above.
+The honest usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats. It is the meter behind the 300 M above.
 
 <sub>`Tauri` · `Rust`</sub>
 
