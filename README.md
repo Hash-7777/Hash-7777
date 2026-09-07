@@ -4,7 +4,7 @@
 
 **Pharmacist** &nbsp;·&nbsp; **Angler** &nbsp;·&nbsp; **Builder of local-first desktop AI**
 
-<sub>From prescriptions to pull requests</sub>
+
 
 <p>
   <a href="https://www.linkedin.com/in/seif-hashish-s-w-h/"><img src="https://img.shields.io/badge/LinkedIn-Seif%20Hashish-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=12131C" alt="LinkedIn"></a>
