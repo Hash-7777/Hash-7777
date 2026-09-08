@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-| **139** | **112** | **3** | **0** |
+| **139** | **130** | **3** | **0** |
 |:--:|:--:|:--:|:--:|
 | <sub>stars earned</sub> | <sub>app downloads</sub> | <sub>apps shipped</sub> | <sub>servers required</sub> |
 
