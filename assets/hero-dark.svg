@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Seif Hashish, pharmacist and builder of local-first software">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1017"/>
+      <stop offset="1" stop-color="#12141D"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7AA2F7" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#7AA2F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#1B1E2B"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#7AA2F7" stop-opacity="0"/>
+      <stop offset="0.14" stop-color="#7AA2F7" stop-opacity="0.85"/>
+      <stop offset="0.86" stop-color="#7AA2F7" stop-opacity="0.85"/>
+      <stop offset="1"    stop-color="#7AA2F7" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1280" height="340" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1280" height="340" fill="url(#sky)"/>
+    <rect width="1280" height="340" fill="url(#dots)" opacity="0.9"/>
+    <ellipse cx="1090" cy="40" rx="520" ry="360" fill="url(#halo)"/>
+
+    <!-- the trace -->
+    <g transform="translate(50,66)">
+      <path d="M0,196 L150,196 L168,196 L176,176 L186,214 L196,148 L208,242 L218,196 L240,196 L392,196 L404,196 L412,182 L420,208 L430,196 L470,196 L620,196 L634,196 L642,170 L652,220 L662,196 L700,196 L900,196 L916,196 L924,184 L932,206 L940,196 L1010,196 L1180,196" fill="none" stroke="url(#fade)" stroke-width="1.6"
+            stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+      <path id="pulse" d="M0,196 L150,196 L168,196 L176,176 L186,214 L196,148 L208,242 L218,196 L240,196 L392,196 L404,196 L412,182 L420,208 L430,196 L470,196 L620,196 L634,196 L642,170 L652,220 L662,196 L700,196 L900,196 L916,196 L924,184 L932,206 L940,196 L1010,196 L1180,196" fill="none" stroke="#7AA2F7" stroke-width="2.2"
+            stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="360 3000" stroke-dashoffset="360">
+        <animate attributeName="stroke-dashoffset" from="360" to="-3000"
+                 dur="7s" repeatCount="indefinite"/>
+      </path>
+      <circle r="3.6" fill="#9ECE6A">
+        <animateMotion dur="7s" repeatCount="indefinite" path="M0,196 L150,196 L168,196 L176,176 L186,214 L196,148 L208,242 L218,196 L240,196 L392,196 L404,196 L412,182 L420,208 L430,196 L470,196 L620,196 L634,196 L642,170 L652,220 L662,196 L700,196 L900,196 L916,196 L924,184 L932,206 L940,196 L1010,196 L1180,196"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.95;1" dur="7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- caret where the trace ends -->
+    <rect x="1236" y="252" width="9" height="22" fill="#9ECE6A" rx="1">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- wordmark -->
+    <text x="60" y="128" font-family="Georgia,'Iowan Old Style','Times New Roman',Times,serif" font-size="68" font-weight="600"
+          fill="#E6EBFA" letter-spacing="-1.5">Seif Hashish</text>
+    <rect x="62" y="152" width="76" height="2.5" fill="#7AA2F7" rx="1"/>
+    <text x="62" y="192" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600"
+          fill="#C0CAF5" letter-spacing="3.4">PHARMACIST &#183; PHARM D</text>
+    <text x="62" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600"
+          fill="#565F89" letter-spacing="3.4">BUILDER OF LOCAL-FIRST SOFTWARE</text>
+
+    <!-- monogram -->
+    <g transform="translate(1112,52)">
+      <rect width="106" height="106" rx="20" fill="none" stroke="#1E2230" stroke-width="1.5"/>
+      <rect x="10" y="10" width="86" height="86" rx="14" fill="#7AA2F7" opacity="0.10"/>
+      <text x="53" y="70" text-anchor="middle" font-family="Georgia,'Iowan Old Style','Times New Roman',Times,serif" font-size="40"
+            font-weight="600" fill="#E6EBFA" letter-spacing="1">SH</text>
+    </g>
+
+    <text x="1218" y="308" text-anchor="end" font-family="'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5"
+          fill="#565F89" letter-spacing="1.6">seifhashish.com</text>
+
+    <rect width="1280" height="340" rx="14" fill="none" stroke="#1E2230" stroke-width="1.5"/>
+  </g>
+</svg>

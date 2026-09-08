@@ -1,37 +1,33 @@
 <div align="center">
 
-# Seif Hashish
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/hero-dark.svg">
+  <img alt="Seif Hashish — pharmacist, Pharm D, builder of local-first software" src="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/hero-light.svg" width="100%">
+</picture>
 
-**Pharmacist** &nbsp;·&nbsp; **Angler** &nbsp;·&nbsp; **Builder of local-first desktop AI**
+<p><a href="https://seifhashish.com"><img src="https://img.shields.io/badge/seifhashish.com-12131C?style=flat-square&logo=safari&logoColor=7AA2F7" alt="Website"></a>&nbsp;<a href="https://www.linkedin.com/in/seif-hashish-s-w-h/"><img src="https://img.shields.io/badge/LinkedIn-12131C?style=flat-square&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>&nbsp;<a href="https://github.com/Hash-7777?tab=followers"><img src="https://img.shields.io/github/followers/Hash-7777?style=flat-square&logo=github&label=Follow&labelColor=12131C&color=7AA2F7" alt="Followers"></a></p>
 
+<br/><br/>
 
-
-<p>
-  <a href="https://www.linkedin.com/in/seif-hashish-s-w-h/"><img src="https://img.shields.io/badge/LinkedIn-Seif%20Hashish-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=12131C" alt="LinkedIn"></a>
-  <a href="https://github.com/Hash-7777?tab=followers"><img src="https://img.shields.io/github/followers/Hash-7777?style=flat-square&logo=github&label=Follow&labelColor=12131C&color=7AA2F7" alt="Followers"></a>
-  <a href="https://github.com/Hash-7777"><img src="https://komarev.com/ghpvc/?username=Hash-7777&color=7AA2F7&style=flat-square&label=views&labelColor=12131C" alt="Profile views"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/stats-dark.svg">
+  <img alt="139 stars earned, 3 apps shipped, 7 repositories, 0 servers required" src="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/stats-light.svg" width="100%">
+</picture>
 
 </div>
 
 <br/>
 
-> **Local-first by conviction.** Private, fast, honest software that runs entirely on your machine — no account, no telemetry, no server, nothing sent anywhere. Every app below can be checked by reading its source.
+> **Local-first by conviction.** Private, fast, honest software that runs entirely on your machine. No account, no telemetry, no server, nothing sent anywhere. Every app below can be checked by reading its source.
 
 <br/>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/rule-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/rule-light.svg" width="100%">
+</picture>
 
-| **3** | **5** | **300 M** | **0** |
-|:--:|:--:|:--:|:--:|
-| <sub>apps shipped</sub> | <sub>repos open source</sub> | <sub>tokens, cache excluded</sub> | <sub>servers required</sub> |
-
-</div>
-
----
-
-
-## ◦ Shipped
+## Shipped
 
 <table>
 <tr>
@@ -63,7 +59,7 @@ The Dynamic Island every Mac deserves. What is playing, internet speed, battery,
 
 ### [HashMeterAi](https://github.com/Hash-7777/HashMeterAi)
 
-The honest usage meter for AI coding tools. Counts **real measured tokens**, not estimates — across six tools. No server, and it never reads your chats. It is the meter behind the 300 M above.
+The honest usage meter for AI coding tools. Counts **real measured tokens**, not estimates, across six tools. No server, and it never reads your chats.
 
 <sub>`Tauri` · `Rust`</sub>
 
@@ -74,7 +70,7 @@ The honest usage meter for AI coding tools. Counts **real measured tokens**, not
 </tr>
 </table>
 
-## ◦ In development
+## In development
 
 <table>
 <tr>
@@ -101,11 +97,9 @@ A living fishing atlas on a 3D globe, with an AI fish specialist that flies the 
 </tr>
 </table>
 
----
+## Method, opened up
 
-## ◦ Method, opened up
-
-The way I work, and the domain knowledge behind it — written down so anyone can take it.
+The way I work, and the domain knowledge behind it, written down so anyone can take it.
 
 <table>
 <tr>
@@ -136,9 +130,7 @@ Drop-in agent skills that make an AI appraise medical literature like a reviewer
 </tr>
 </table>
 
----
-
-## ◦ What my apps are built with
+## What my apps are built with
 
 <div align="center">
 
@@ -156,7 +148,12 @@ Drop-in agent skills that make an AI appraise medical literature like a reviewer
 
 </div>
 
----
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/rule-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/rule-light.svg" width="100%">
+</picture>
 
 <div align="center">
 
@@ -164,6 +161,6 @@ Drop-in agent skills that make an AI appraise medical literature like a reviewer
 
 <br/><br/>
 
-<sub><a href="https://www.linkedin.com/in/seif-hashish-s-w-h/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/Hash-7777?tab=repositories">All repositories</a></sub>
+<sub><a href="https://seifhashish.com">seifhashish.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/seif-hashish-s-w-h/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/Hash-7777?tab=repositories">All repositories</a></sub>
 
 </div>
