@@ -9,10 +9,9 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/stats-dark.svg">
-  <img alt="139 stars earned, 112 app downloads, 3 apps shipped, 0 servers required" src="https://raw.githubusercontent.com/Hash-7777/Hash-7777/main/assets/stats-light.svg" width="100%">
-</picture>
+| **139** | **112** | **3** | **0** |
+|:--:|:--:|:--:|:--:|
+| <sub>stars earned</sub> | <sub>app downloads</sub> | <sub>apps shipped</sub> | <sub>servers required</sub> |
 
 </div>
 
