@@ -9,9 +9,9 @@
 
 <br/><br/>
 
-| **150+** | **200+** | **3** | **0** |
+| **150+** | **200+** | **3** | **1200+** |
 |:--:|:--:|:--:|:--:|
-| <sub>stars earned</sub> | <sub>app downloads</sub> | <sub>apps shipped</sub> | <sub>servers required</sub> |
+| <sub>stars earned</sub> | <sub>app downloads</sub> | <sub>apps shipped</sub> | <sub>Weekly Clones</sub> |
 
 </div>
 
