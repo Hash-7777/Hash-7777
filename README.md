@@ -9,9 +9,9 @@
 
 <br/><br/>
 
-| **150+** | **200+** | **3** | **1200+** |
+| **190+** | **240+** | **3** | **1800+** |
 |:--:|:--:|:--:|:--:|
-| <sub>stars earned</sub> | <sub>app downloads</sub> | <sub>apps shipped</sub> | <sub>Weekly Clones</sub> |
+| <sub>stars earned</sub> | <sub>app downloads</sub> | <sub>apps shipped</sub> | <sub>clones in 14 days</sub> |
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ### [HashCortX](https://github.com/Hash-7777/HashCortX)
 
-The local-first AI workspace for macOS. **Eight workspaces** — Coder, Agent Swarm, Finance, 3D Forge, Sandbox, Virtual OS and more. **11 cloud providers**, or fully offline with Ollama. Nine specialist agents, real Python in a sandbox. No backend, no account.
+The local-first AI workspace for macOS and Windows. **Seven workspaces**: Chats, HashCoder, Agent Swarm, 3D Forge, ERP, Finance and Sandbox. **21 cloud providers**, or fully offline with Ollama. A **local knowledge base (RAG)** searched on your machine, nine specialist agents, real Python in a sandbox. No backend, no account.
 
 <sub>`Tauri` · `Rust` · `JavaScript`</sub>
 
@@ -91,39 +91,6 @@ A local-first medical-research workbench — a 3D anatomical brain that searches
 A living fishing atlas on a 3D globe, with an AI fish specialist that flies the earth to show migrations and catch spots — an agent driving a real interface through tool calls, not returning text. <sub>(The *angler* in me, in code.)</sub>
 
 <sub>`Tauri` · `Rust` · `globe.gl`</sub>
-
-</td>
-</tr>
-</table>
-
-## Method, opened up
-
-The way I work, and the domain knowledge behind it, written down so anyone can take it.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Hash AI Coding Persona](https://github.com/Hash-7777/Hash-AI-Coding-persona)
-
-The written-down system for shipping serious software with AI coding agents — persistent memory, git work-trees, signed commits, verify-before-you-trust. Copy-paste templates. Works with any agent, any model, including local Ollama.
-
-<sub>`Markdown` · any agent · any model</sub>
-
-<a href="https://github.com/Hash-7777/Hash-AI-Coding-persona/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/Hash-AI-Coding-persona?style=flat-square&logo=github&color=7AA2F7&labelColor=12131C" alt="stars"></a>
-<img src="https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=12131C" alt="MIT">
-
-</td>
-<td width="50%" valign="top">
-
-### [Hash Medical Research Agent Skills](https://github.com/Hash-7777/Hash-Medical-Reasearch-Agent-Skills)
-
-Drop-in agent skills that make an AI appraise medical literature like a reviewer — grade every citation against its source, run reproducible PRISMA searches, pool studies safely, and defend retrieval against prompt injection.
-
-<sub>`Markdown` · framework-agnostic</sub>
-
-<a href="https://github.com/Hash-7777/Hash-Medical-Reasearch-Agent-Skills/stargazers"><img src="https://img.shields.io/github/stars/Hash-7777/Hash-Medical-Reasearch-Agent-Skills?style=flat-square&logo=github&color=7AA2F7&labelColor=12131C" alt="stars"></a>
-<img src="https://img.shields.io/badge/-MIT-9ECE6A?style=flat-square&labelColor=12131C" alt="MIT">
 
 </td>
 </tr>
